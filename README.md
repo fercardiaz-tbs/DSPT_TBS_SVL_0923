@@ -1,7 +1,7 @@
 # Bootcamp - Data Science - Part time - September 2023 - The Bridge
 
 
-![The Bridge](./1-Ramp_up/1-Presentaciones/img/TheBridge_logo.png)
+![The Bridge](./1-Ramp_Up/1-Presentaciones/img/TheBridge_logo.png)
 
 ----------
 
