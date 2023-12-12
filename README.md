@@ -34,7 +34,7 @@ git clone https://github.com/fercardiaz-tbs/DSPT_TBS_SVL_0923"
 
 - fernando.carrasco@thebridgeschool.es
 
-**Teacher Assistant**: *Alba Cruz Gálvez*
+**Teacher Assistant**: *José M. Prado Appeceix*
 
-- alba.cruz@thebridgeschool.es
+- jose.prado@thebridgeschool.es
 
