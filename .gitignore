@@ -13,7 +13,6 @@ env/
 
 
 # Para carpetas estén donde estén.
-**/data/
 **/log/
 **/logs/
 **/__pycache__/
