@@ -1,3 +1,21 @@
-*.ipynb_checkpoints/
+# Configuraciones locales
+config.json
+**.env
+
+
+# Para archivos
 2-Data Analytics/3-Pandas/ejercicios/1-World_Food_Facts/data.tsv
-.git
+
+
+# Para carpetas
+entorno/
+env/
+
+
+# Para carpetas estén donde estén.
+**/log/
+**/logs/
+**/__pycache__/
+**.pyc
+**.ipynb_checkpoints/
+
