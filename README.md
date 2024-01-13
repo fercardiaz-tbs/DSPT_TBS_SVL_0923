@@ -43,8 +43,8 @@ git clone https://github.com/fercardiaz-tbs/DSPT_TBS_SVL_0923"
 
 ### Recursos varios
 
-**Hands on Machine Learning**: [Link](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ch01.html#idm45720250437200)
+**Hands on Machine Learning**: [Enlace](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ch01.html#idm45720250437200)
 
-**100 Trucos de Pandas**: [Link](https://www.kaggle.com/code/zaidaalvarado/100-trucos-de-pandas)
+**100 Trucos de Pandas**: [Enlace](https://www.kaggle.com/code/zaidaalvarado/100-trucos-de-pandas)
 
-**Apuntes del p-valor** [Link](https://www.probabilidadyestadistica.net/valor-p/)
+**Apuntes del p-valor** [Enlace](https://www.probabilidadyestadistica.net/valor-p/)
