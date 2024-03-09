@@ -1,0 +1,24 @@
+.newCommentForm{
+    display: flex;
+    justify-content: center;
+}
+.commentInput{
+    width: 551px;
+    height: 46px;
+    padding-left: 14px;
+
+    border: 1px solid #9EAFED;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.commentInput::placeholder{
+
+    font-size: 18px;
+    line-height: 31px;
+    color: #CECECE;
+}
+.commentInput:focus{
+    outline-color: #9EAFED;
+    /* border: #9EAFED 3px solid; */
+}

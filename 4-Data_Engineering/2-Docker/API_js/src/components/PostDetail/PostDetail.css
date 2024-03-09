@@ -1,0 +1,7 @@
+.noHover .post {
+    transition: 0s;
+}
+.noHover .post:hover {
+    transform: scale(1);
+    background-color: #D8DEF1;
+}

@@ -1,0 +1,11 @@
+main{
+    display: flex;
+    width: 663px;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: auto;
+}
+.postList{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Good Project Ideas",
+      "user": "ChristianCiudad",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris est felis, rutrum in facilisis eget, facilisis non nunc. Nullam porta euismod odio, vitae feugiat odio elementum sodales. Maecenas eget egestas justo. In rhoncus lacinia dictum. Sed vel bibendum sapien. Etiam sed tincidunt augue. Sed volutpat in nibh vel luctus. Morbi varius, diam in bibendum porta, tellus lorem venenatis justo, eget aliquet nulla mi non nulla. "
+    },
+    {
+      "id": 2,
+      "name": "An idea for the future",
+      "user": "FranGarcia",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris est felis, rutrum in facilisis eget, facilisis non nunc. Nullam porta euismod odio, vitae feugiat odio elementum sodales. Maecenas eget egestas justo. In rhoncus lacinia dictum. Sed vel bibendum sapien. Etiam sed tincidunt augue. Sed volutpat in nibh vel luctus. Morbi varius, diam in bibendum porta, tellus lorem venenatis justo, eget aliquet nulla mi non nulla. "
+    },
+    {
+      "id": 3,
+      "name": "Relative flex direction",
+      "user": "rosamartinez",
+      "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu commodo felis. Nulla facilisi. Duis a lacus elit. Proin at tortor at mauris convallis fermentum. Aenean gravida scelerisque ligula nec pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam neque libero, finibus eu mi ut, varius semper augue. Quisque ac odio maximus tellus faucibus venenatis et ac metus. Suspendisse odio nibh, efficitur at nulla eu, ullamcorper varius nisl. Morbi massa est, fermentum ac suscipit ac, euismod eget sapien. Suspendisse fermentum laoreet porta. Nulla volutpat egestas pulvinar. Donec mauris mi, facilisis quis blandit eget, euismod at ligula."
+    },
+    {
+      "id": 4,
+      "name": "Remembering old times",
+      "user": "Fran",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris est felis, rutrum in facilisis eget, facilisis non nunc. Nullam porta euismod odio, vitae feugiat odio elementum sodales. Maecenas eget egestas justo. In rhoncus lacinia dictum. Sed vel bibendum sapien. Etiam sed tincidunt augue. Sed volutpat in nibh vel luctus. Morbi varius, diam in bibendum porta, tellus lorem venenatis justo, eget aliquet nulla mi non nulla. "
+    },
+    {
+      "name": "Probando React",
+      "user": "ChristianCiudad",
+      "text": "Que bien funciona",
+      "id": 5
+    },
+    {
+      "name": "   hh",
+      "user": "ChristianCiudad",
+      "text": "hhh",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 2,
+      "user": "FranGarcia",
+      "text": "Magic Carpet"
+    },
+    {
+      "id": 1,
+      "postId": 1,
+      "user": "SaraLopez",
+      "text": "Nice post!"
+    },
+    {
+      "postId": "1",
+      "user": "ChristianCiudad",
+      "text": "hhh",
+      "id": 2
+    }
+  ]
+}

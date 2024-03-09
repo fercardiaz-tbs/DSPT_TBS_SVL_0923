@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@500&family=Barlow:wght@500&display=swap');
+
+.post{
+    display:flex;
+    flex-direction: column;
+
+    width: 663px;
+
+    margin: 41px 0 15px 0;
+
+    background-color: #D8DEF1;
+    border-radius: 24px;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    transition: transform .2s, background-color .2s;
+}
+.post:hover{
+    transform: scale(1.03);
+    background-color: #b4bfe4;
+}
+.postTitle{
+    /* border: 1px solid green; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    font-family: 'Barlow', sans-serif;
+
+    text-align: left;
+
+    margin: 35px 0 0 56px;
+
+    height: 40px;
+
+    color: #000000;
+}
+.userName{
+    /* border: 1px solid red; */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+
+    text-align: left;
+    justify-self: flex-start;
+
+    margin:0 0 0 56px;
+
+    height: 40px;
+
+    color: #9D9B9B;
+}
+.postText{
+    /* border: 1px solid blue; */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 31px;
+
+    text-align: left;
+
+    margin: 0 43px 43px 56px;
+
+    color: #000000;
+}

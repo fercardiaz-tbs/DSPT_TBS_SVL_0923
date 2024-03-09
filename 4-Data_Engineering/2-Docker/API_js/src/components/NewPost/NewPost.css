@@ -1,0 +1,28 @@
+.newPostButton{
+    width: 191px;
+    height: 45px;
+
+    background-color: #9EAFED;
+    border-radius: 13px;
+
+    margin-top: 40px;
+    
+    justify-items: left;
+
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+
+    align-items: center;
+
+    border-style: none;
+
+    color: #FFFFFF;
+
+    text-decoration: none;
+}
+.newPostButton:hover{
+    cursor: pointer;
+}

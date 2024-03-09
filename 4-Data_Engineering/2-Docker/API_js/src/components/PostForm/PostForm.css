@@ -1,0 +1,93 @@
+.postForm{
+    display: flex;
+    flex-direction: column;
+
+    width: 672px;
+    height: 492px;
+
+    margin-top: 40px;
+
+    background: #D8DEF1;
+    border-radius: 24px;
+
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.formTitle::placeholder,.formText::placeholder{
+
+    font-size: 18px;
+    line-height: 31px;
+    color: #CECECE;
+
+}
+.formTitle{
+    width: 572px;
+    height: 36px;
+
+    margin: 42px 48px 27px 52px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+
+    padding-left: 12px;
+
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 31px;
+
+    font-family: 'Alegreya Sans', sans-serif;
+
+    color: #000000;
+
+
+    border-style: none;
+}
+.formText{
+    width: 572px;
+    height: 298px;
+
+    margin: 0 48px 27px 52px;
+
+  
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 31px;
+    resize: none;
+    padding-left: 12px;
+
+    color: #000000;
+
+    font-family: 'Alegreya Sans', sans-serif;
+
+
+    background: #FFFFFF;
+    border-radius: 10px;
+
+    border-style: none;
+}
+.postButton{
+    width: 136px;
+    height: 38px;
+
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+
+    align-self: flex-end;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    
+    border-style: none;
+    color: #FFFFFF;
+    background: #9EAFED;
+    border-radius: 24px;
+}
+.formText:focus , .formTitle:focus{
+    outline-color: #9EAFED;
+    /* border: #9EAFED 3px solid; */
+}
